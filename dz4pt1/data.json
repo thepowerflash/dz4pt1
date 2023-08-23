@@ -1,0 +1,25 @@
+[{
+    "name": "Charles Oliveira",
+    "age": 33,
+    "record": "34-9",
+    "image":"../images/img1.jpg"
+},
+{
+    "name": "Israel Adesanya",
+    "age": 34,
+    "record": "24-2",
+    "image":"../images/img2.jpg"
+},
+{
+    "name": "Alex. Volkanovski",
+    "age": 34,
+    "record": "26-2",
+    "image":"../images/img4.jpeg"
+},
+{
+    "name": "Sean O'Malley",
+    "age": 28,
+    "record": "17-2",
+    "image":"../images/img5.jpg"
+}
+]
